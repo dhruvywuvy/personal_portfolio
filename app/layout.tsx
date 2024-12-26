@@ -1,7 +1,6 @@
 import './globals.css'
-import { Inter, DM_Sans } from 'next/font/google'
+import { DM_Sans } from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
 const dmSans = DM_Sans({ 
   subsets: ['latin'],
   weight: ['400', '500', '700']
