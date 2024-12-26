@@ -11,7 +11,7 @@ const experiences = [
   },
   {
     logo: '/logos/design_prodigy_logo.jpg',
-    title: 'Software Developer',
+    title: 'Software Development',
     company: 'Design Prodigy',
     period: 'May 24 - Aug 24',
     description: 'Developed B2B market intelligence software for in-house + Fortune 500 companies.',
