@@ -4,10 +4,10 @@ const experiences = [
   {
     logo: '/logos/advocare_logo.jpg',
     title: 'Co-founder',
-    company: 'Advocare',
+    company: 'MediChecker',
     period: 'Sep 24 - Present',
     description: 'Developing a platform to ensure no one overpays for medical bills again.',
-    link: 'https://www.linkedin.com/posts/dhruv-deshmukh-2a7aa2228_an-unforgettable-experience-with-an-incredible-activity-7277156036992479232-XDo5?utm_source=share&utm_medium=member_desktop'
+    link: 'https://www.medicalbillchecker.com/'
   },
   {
     logo: '/logos/design_prodigy_logo.jpg',
@@ -46,7 +46,7 @@ const experiences = [
     title: 'Photographer',
     company: 'Unsplash',
     period: 'Jan 17 - Dec 21',
-    description: '24 mil views, 100k downloads. Photos used by Adobe, Picsart, Buzzfeed, Notion, Tencent, Yahoo News, etc.',
+    description: '24 mil views, 100k downloads. Photos used by Picsart, Buzzfeed, Notion, Tencent, Yahoo News, etc.',
     link: 'https://unsplash.com/@dhruvywuvy'
   }
 ]
