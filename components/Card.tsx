@@ -46,7 +46,7 @@ export default function Card({ logo, title, company, period, description, link }
             href={link} 
             target="_blank" 
             rel="noopener noreferrer" 
-            className="text-xs text-[#058081] hover:underline"
+            className="text-xs text-[#063970] hover:underline"
             onClick={(e) => e.stopPropagation()}
           >
             Learn more

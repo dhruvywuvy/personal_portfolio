@@ -10,14 +10,14 @@
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #a1bee7;
   /* background: radial-gradient(circle at top right, #768c8c, #1c9191); */
   color: #333;
 }
 
 .card-bg {
-  background-color: rgb(250, 250, 250);
-  border: 1px solid rgb(238, 238, 238);
+  background-color: #ced4d6b7;
+  border: 1px solid #ced4d6b7;
 }
 
 h1, h2, h3, h4, h5, h6 {

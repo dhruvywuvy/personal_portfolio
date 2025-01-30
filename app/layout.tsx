@@ -7,7 +7,7 @@ const dmSans = DM_Sans({
 })
 
 export const metadata = {
-  title: 'Dhruv Deshmukh - Portfolio',
+  title: 'Kirti - Portfolio',
   description: 'Personal portfolio showcasing experience and projects',
 }
 

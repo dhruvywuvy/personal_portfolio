@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="mt-16 pb-8">
       <div className="flex justify-center space-x-6 mb-4">
         <Link
-          href="https://www.linkedin.com/in/dhruv-deshmukh-2a7aa2228/"
+          href="https://www.linkedin.com/in/kirti-subramanian-8100a6215/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white-600 hover:text-white-900"
@@ -15,7 +15,7 @@ export default function Footer() {
           </svg>
         </Link>
         <Link
-          href="mailto:ddeshmuk@usc.edu"
+          href="mailto:kirtisubramanian@gmail.com"
           className="text-white-600 hover:text-white-900"
         >
           <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -24,7 +24,7 @@ export default function Footer() {
         </Link>
       </div>
       <p className="text-center text-sm text-white-500">
-        © made by dhruv (est. 2024)
+        © made by kirti (est. 2025)
       </p>
     </footer>
   )
